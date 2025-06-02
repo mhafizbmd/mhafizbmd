@@ -1,5 +1,4 @@
 # Hey there, I’m Hafiz Daud 👋
-
 # [Cybersecurity Professional ■ Building towards Cloud Security](https://www.linkedin.com/in/hafizdaud)
 
 
