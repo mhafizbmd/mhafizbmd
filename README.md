@@ -1,5 +1,7 @@
-# Hey there, I’m Hafiz Daud 👋  
-<font color="#0366d6">Cybersecurity Professional, Building towards Cloud Security</font>
+# Hey there, I’m Hafiz Daud 👋
+
+# [Cybersecurity Professional ■ Building towards Cloud Security](https://www.linkedin.com/in/hafizdaud)
+
 
 
 
