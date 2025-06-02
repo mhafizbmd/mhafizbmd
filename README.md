@@ -31,11 +31,18 @@ Right now, I’m fully focused on completing my Blue Team Level 1 (BTL1) certifi
 
 ---
 
-## 📂 Explore My Repository  
-Feel free to check out my one repository for:  
-- A step-by-step lab guide on setting up Splunk Enterprise on Ubuntu 📝  
-- Screenshots and configuration examples used during the lab setup 📷  
-- Project notes detailing lessons learned and troubleshooting steps 🏷️  
+## 📂 Explore My Repositories
+
+- **Cloud-Digital-Leader-Google**  
+  Resources and notes for my Google Cloud Digital Leader certification journey.
+
+- **splunk-siem-homelab**  
+  Step-by-step guide to setting up Splunk Enterprise on Ubuntu Server + VirtualBox, with screenshots and configuration examples.
+
+- **gcp-cloud-security-lab**  
+  Hands-on GCP cloud security home lab projects, including Terraform and IAM experiments.
+
+
 
 I’m always open to feedback, collaboration, or simply geeking out over cloud defenses and AI-driven security. 🔗 Let’s connect, share ideas, and grow together!  
 
