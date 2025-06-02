@@ -1,4 +1,5 @@
 # Hey there, I’m Hafiz Daud 👋
+##Cybersecurity Professional, Building towards Cloud Security
 
 Welcome to my little corner of GitHub! I’m fairly new to the world of cybersecurity—learning the ropes as a SOC/cybersecurity analyst by day and dreaming of a future in cloud security by night. 🚀 I love rolling up my sleeves to tinker with new tools: from spinning up a Splunk SIEM lab on Ubuntu 🐧 to exploring both Azure and GCP cloud fundamentals. ☁️
 
