@@ -1,6 +1,5 @@
-<h1> # Hey there, I’m Hafiz Daud 👋 <h1>
-
-<h1>**Cybersecurity Professional ■ Building towards Cloud Security** <h1>
+<h1> Hey there, I’m Hafiz Daud 👋 <h1>
+<h2>Cybersecurity Professional ■ Building towards Cloud Security** <h2>
 
 ---
 
