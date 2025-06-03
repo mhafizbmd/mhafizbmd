@@ -17,6 +17,9 @@ Welcome to my little corner of GitHub! I’m fairly new to the world of cybersec
 - **Google Cloud Cybersecurity Professional Certificate**  
 - **Preparing for Google Cloud Certification: Cloud Security Engineer**
 
+### KodeKloud
+- **Cloud Digital Leader (Google) - Completed**
+- **Linux Labs - In Progress**
 ---
 
 ## 🔍 What I’m Up To Right Now  
