@@ -6,7 +6,7 @@ Welcome to my little corner of GitHub! I’m fairly new to the world of cybersec
 ---
 
 ## 🎯 Certifications I’m Targeting in 2025  
-- **Cloud Digital Leader (Google) – ✅ Completed!**  
+- **Cloud Digital Leader (Google) – ✅ Completed in May 2025!**  
 - **Blue Team Level 1 (SBTL) – 🚧 In Progress**  
 - **CCNA – 🔜 Coming Soon**  
 - **SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals – 🔜**  
