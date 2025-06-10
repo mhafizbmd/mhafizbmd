@@ -7,10 +7,10 @@ Welcome to my little corner of GitHub! I’m fairly new to the world of cybersec
 
 ## 🎯 Certifications I’m Targeting in 2025  
 - **Cloud Digital Leader (Google) – ✅ Completed in May 2025!**  
-- **Blue Team Level 1 (SBTL) – 🚧 In Progress**  
-- **CCNA – 🔜 Coming Soon**  
-- **SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals – 🔜**  
-- **AI-900: Microsoft Azure AI Fundamentals – 🔜**
+- **Blue Team Level 1 (SBTL) – 🚧 In Progress, completion in June 2025**  
+- **SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals – 🔜 Coming Soon**  
+- **AI-900: Microsoft Azure AI Fundamentals – 🔜 Coming Soon**
+- **CCNA – 🔜 Targeted in Q4**  
 
 ### Coursera Tracks  
 - **Google IT Support Professional Certificate**  
